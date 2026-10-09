@@ -1,2 +1,2 @@
 rollback_strategy: 
-target_version: 
+target_version: previous

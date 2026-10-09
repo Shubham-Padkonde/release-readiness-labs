@@ -1,3 +1,7 @@
-approvedBy: 
-reviewDate: 
-releaseManager: 
+approvedBy:
+  - name: "DevOps Team Lead"
+    status : "Approved"
+  - name: "Security Officer"
+    status : "Approved"
+reviewDate: "2026-10-09"
+releaseManager: "Shubham Padkonde"

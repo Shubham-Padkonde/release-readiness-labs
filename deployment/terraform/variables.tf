@@ -1,4 +1,5 @@
 variable "aws_secret_key" {
   type    = string
-  default = "test-secret"
+  description = "The secret key for AWS access"
+  sensitive = true
 }
